@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarang Pawar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **My Music Player Project**
+- 🔭 I’m currently working on **DigitalDose Organization's Project**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-app-xi.vercel.app/](https://my-portfolio-app-xi.vercel.app/)
 
